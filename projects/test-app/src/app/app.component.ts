@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { TestLibComponent } from '../../../test-lib/src/public-api';
+import { TestLibComponent } from '@lib/test';
 
 @Component({
   selector: 'app-root',

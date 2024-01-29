@@ -21,7 +21,7 @@
     "useDefineForClassFields": false,
     "baseUrl": ".",
     "paths": {
-      "@lib/test": ["libs/test-lib/src/public-api.ts"],
+      "@lib/test": ["projects/test-lib/src/public-api.ts"],
     },
     "lib": [
       "ES2022",
